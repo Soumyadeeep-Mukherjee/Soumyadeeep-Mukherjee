@@ -1,4 +1,3 @@
-<!-- Typing Animation -->
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C4FF&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumyadeep+Mukherjee;AI+Enthusiast+%7C+Student+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
@@ -7,32 +6,36 @@
 
 ### 🚀 About Me
 
-- 🎓 I’m a **3rd-year student at MAKAUT, W.B**, pursuing **BSc.IT in Artificial Intelligence**
-- 🌱 Currently learning **Python** and the **Machine Learning course by Andrew Ng**
-- 💬 Ask me about **Python, C, SQL**
-- 📫 Reach me at: **mrsoumya002@gmail.com**
-- ⚡ **Fun fact**:  I turn ideas into action with strong leadership and crystal-clear communication—teamwork makes the dream work!
+- 🎓 I’m a **3rd-year student at MAKAUT, W.B**, pursuing **BSc.IT in Artificial Intelligence**.
+- 🌱 Currently learning **Python** and the **Machine Learning course by Andrew Ng**.
+- 💼 Explore my projects and detailed work on my **[Personal Portfolio Website](https://soumyadeeep-mukherjee.github.io/My-Portfolio/)**.
+- 💬 Ask me about **Python, C, SQL**.
+- 📫 Reach me at: **mrsoumya002@gmail.com**.
+- ⚡ **Fun fact**: I turn ideas into action with strong leadership and crystal-clear communication—teamwork makes the dream work!
+
+---
+
+### 🔗 Connect with Me & View My Work
+
+<p align="left">
+  <a href="https://soumyadeeep-mukherjee.github.io/My-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C4FF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/soumyadeep-mukherjee-a613b8379/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mrsoumya002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
 ### 🎓 Leadership & Community
 
-- 🏅 **Management Co-Lead at [GDGoC MAKAUT (Previously GDSC Makaut)](https://gdsc.community.dev/maulana-abul-kalam-azad-university-of-technology-kolkata/)**  
-  I help drive initiatives, organize events, and foster collaboration in the developer community on campus!
-
----
-
-### 🔗 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/soumyadeep-mukherjee-a613b8379/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mrsoumya002@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
-  </a>
-</p>
+- 🏅 **Management Co-Lead at [GDGoC MAKAUT (Previously GDSC Makaut)](https://gdsc.community.dev/maulana-abul-kalam-azad-university-of-technology-kolkata/)** I help drive initiatives, organize events, and foster collaboration in the developer community on campus!
 
 ---
 
