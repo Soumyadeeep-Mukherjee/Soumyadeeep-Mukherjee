@@ -1,16 +1,24 @@
-<!-- Typing Animation (Left-Aligned and Stable) -->
+<!-- Typing Animation -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C4FF&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumyadeep+Mukherjee;AI+Enthusiast+%7C+Student+%7C+Tech+Geek" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C4FF&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumyadeep+Mukherjee;AI+Enthusiast+%7C+Student+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **Python** and the **Machine Learning course by Andrew Ng**
+- 🎓 I’m a **3rd-year student at MAKAUT, W.B**, pursuing **BSc.IT in Artificial Intelligence**
+- 🌱 Currently learning **Python** and the **Machine Learning course by Andrew Ng**
 - 💬 Ask me about **Python, C, SQL**
 - 📫 Reach me at: **mrsoumya002@gmail.com**
-- ⚡ **Fun fact**: I lead like a boss and talk like a TED speaker—basically the team’s built-in hype machine!
+- ⚡ **Fun fact**:  I turn ideas into action with strong leadership and crystal-clear communication—teamwork makes the dream work!
+
+---
+
+### 🎓 Leadership & Community
+
+- 🏅 **Management Co-Lead at [GDGoC MAKAUT (Previously GDSC Makaut)](https://gdsc.community.dev/maulana-abul-kalam-azad-university-of-technology-kolkata/)**  
+  I help drive initiatives, organize events, and foster collaboration in the developer community on campus!
 
 ---
 
@@ -30,17 +38,18 @@
 
 ### 💻 Tech Stack
 
-<p>
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40"/>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="40" width="40"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="100" style="background-color:#f7df1e; border-radius:10px; padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br><b>Python</b></td>
+    <td align="center" width="100" style="background-color:#A8B9CC; border-radius:10px; padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><br><b>C</b></td>
+    <td align="center" width="100" style="background-color:#4479A1; border-radius:10px; padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br><b>MySQL</b></td>
+    <td align="center" width="100" style="background-color:#F1502F; border-radius:10px; padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br><b>Git</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="100" style="background-color:#FF6C37; border-radius:10px; padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/><br><b>Postman</b></td>
+    <td align="center" width="100" style="background-color:#007ACC; border-radius:10px; padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><br><b>VS Code</b></td>
+  </tr>
+</table>
 
 ---
 
