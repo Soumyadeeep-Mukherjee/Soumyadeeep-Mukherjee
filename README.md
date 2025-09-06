@@ -8,7 +8,7 @@
 <h2 align="center">🌐 My Portfolio Website</h2>
 
 <p align="center">
-  <a href="https://soumyadeeep-mukherjee.github.io/My-Portfolio/" target="_blank">
+  <a href="https://soumyadeeep-mukherjee.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Now-Portfolio-blue?style=for-the-badge&logo=github" alt="Visit My Portfolio" />
   </a>
 </p>
